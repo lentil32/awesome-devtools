@@ -154,7 +154,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Bytebase](https://www.bytebase.com/) - Database DevOps platform with GitOps and safe schema change workflows.
 * [Sqitch](https://sqitch.org/) - Database-native change management using plain SQL scripts and dependency tracking.
 * [DBT](https://www.getdbt.com/) - Transform data in your warehouse with version-controlled SQL pipelines.
-* [OneQuery](https://github.com/wordbricks/onequery) - Self-hosted data access gateway for databases, analytics tools, and APIs, with centralized credentials, read-only query validation, query limits, and audit logs.
+* [OneQuery](https://github.com/wordbricks/onequery) - Self-hosted gateway for safe, auditable agent queries across approved data sources.
 
 ### Related Lists
 
